@@ -1,9 +1,0 @@
-node_modules
-dist
-.git
-.DS_Store
-*.log
-._*
-temp_processing
-scratch
-download

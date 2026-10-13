@@ -1,9 +1,0 @@
-services:
-  - type: web
-    name: mt-world-remove-veo-watermarks
-    runtime: docker
-    plan: free
-    region: oregon
-    envVars:
-      - key: NODE_ENV
-        value: production
